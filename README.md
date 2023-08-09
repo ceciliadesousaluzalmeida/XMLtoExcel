@@ -1,5 +1,3 @@
-# XMLtoExcel
-
 # XML Reader for NF (Nota Fiscal) Information using Python in Google Colab
 
 Welcome to the **XML Reader for NF Information using Python** project! In this project. I created a simple XML reader that extracts information from XML files, focusing on parsing NF (Nota Fiscal/receipt) data. This project is based on a real-world freelance opportunity found on freelancer.com.br.
